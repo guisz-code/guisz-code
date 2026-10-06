@@ -5,9 +5,9 @@
 ### 💻 Sistemas para Internet • Suporte de TI • Desenvolvimento de Software
 
 <p>
-  <img src="https://img.shields.io/badge/Estudante-Sistemas%20para%20Internet-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/3%C2%BA%20Semestre-2026-informational?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Sistemas%20para%20Internet-3º%20Semestre-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Foco-Desenvolvimento%20de%20Software-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Estagiário-Suporte%20de%20TI-informational?style=for-the-badge">
 </p>
 
 </div>
@@ -20,7 +20,7 @@ Sou estudante de **Sistemas para Internet**, atualmente no **3º semestre**, con
 
 Atualmente, atuo como **Estagiário de Suporte de TI na Secretaria de Administração da Prefeitura**, onde venho adquirindo experiência prática no ambiente profissional e ampliando meus conhecimentos em tecnologia.
 
-Tenho interesse principalmente em **Desenvolvimento de Software** e busco evoluir através da faculdade, estudos independentes e desenvolvimento de projetos.
+Meu principal interesse é **Desenvolvimento de Software**, especialmente desenvolvimento web e backend. Busco evoluir através da faculdade, estudos independentes e desenvolvimento de projetos.
 
 ---
 
@@ -47,8 +47,14 @@ Experiência prática em um ambiente profissional de tecnologia, atuando com sup
 ### 🌐 Desenvolvimento Web
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css" />
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express" />
 </p>
+
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- Express.js
 
 ### 🔧 Ferramentas
 
@@ -56,68 +62,59 @@ Experiência prática em um ambiente profissional de tecnologia, atuando com sup
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-### 📚 Conhecimentos
+- Git
+- GitHub
+- Visual Studio Code
 
-- HTML
-- CSS
+### 📚 Outros conhecimentos
+
 - Lógica de Programação
-- Git & GitHub
-- Fundamentos de Desenvolvimento Web
+- APIs
+- Desenvolvimento Backend
 - Engenharia de Software
 - Engenharia de Requisitos
-- Contato básico com C#
+- C# — conhecimento básico
 
 ---
 
 ## 🚀 Minha jornada
 
 ```text
-🎓 FORMAÇÃO
-Sistemas para Internet
-3º semestre
-       │
-       ▼
-📚 APRENDIZADO
-Programação • Web • Engenharia de Software
-       │
-       ▼
-💼 EXPERIÊNCIA
-Estágio em Suporte de TI
-Secretaria de Administração
-       │
-       ▼
-🛠️ PRÁTICA
-Projetos acadêmicos • Projetos pessoais
-       │
-       ▼
-🎯 DIRECIONAMENTO
-Desenvolvimento de Software
+🎓 SISTEMAS PARA INTERNET
+          │
+          ▼
+     📚 APRENDIZADO
+          │
+          ├── HTML & CSS
+          ├── JavaScript
+          ├── Node.js & Express
+          └── Engenharia de Software
+          │
+          ▼
+     💼 EXPERIÊNCIA
+          │
+          └── Estágio em Suporte de TI
+              Secretaria de Administração
+          │
+          ▼
+      🛠️ PRÁTICA
+          │
+          └── Projetos acadêmicos
+              e projetos pessoais
+          │
+          ▼
+      🎯 OBJETIVO
+          │
+          └── Desenvolvimento
+              de Software
 ```
 
 ---
 
 ## 🎯 Objetivo profissional
 
-Meu objetivo é construir uma carreira na área de **Desenvolvimento de Software**, transformando os conhecimentos adquiridos na faculdade e através da prática em projetos e soluções reais.
+Meu objetivo é construir uma carreira na área de **Desenvolvimento de Software**, com foco em desenvolvimento web e backend.
 
-Atualmente, estou fortalecendo minha base em programação e desenvolvimento web, buscando aprender novas tecnologias e evoluir constantemente como profissional de tecnologia.
+Atualmente, estou aprofundando meus conhecimentos em **JavaScript, Node.js e Express**, enquanto desenvolvo projetos para transformar o conhecimento adquirido em prática.
 
-> **Aprender → Praticar → Construir → Evoluir.**
-
----
-
-## 📂 Projetos
-
-🚧 **Em constante construção...**
-
-Neste perfil, compartilho projetos acadêmicos, projetos pessoais, experimentos e aplicações desenvolvidas durante minha jornada de aprendizado.
-
----
-
-<div align="center">
-
-### 💙 Obrigado por visitar meu perfil!
-
-**Sempre aprendendo. Sempre construindo. Sempre evoluindo.**
-
-</div>
+Busco constantemente aprender novas tecnologias, melhorar minhas habilidades de programação e evol
