@@ -111,10 +111,26 @@ Experiência prática em um ambiente profissional de tecnologia, atuando com sup
 
 ---
 
-## 🎯 Objetivo profissional
+🎯 Objetivo profissional
 
-Meu objetivo é construir uma carreira na área de **Desenvolvimento de Software**, com foco em desenvolvimento web e backend.
+Meu objetivo é construir uma carreira na área de Desenvolvimento de Software, com foco em desenvolvimento web e backend.
 
-Atualmente, estou aprofundando meus conhecimentos em **JavaScript, Node.js e Express**, enquanto desenvolvo projetos para transformar o conhecimento adquirido em prática.
+Atualmente, estou aprofundando meus conhecimentos em JavaScript, Node.js e Express, enquanto desenvolvo projetos para transformar o conhecimento adquirido em prática.
 
-Busco constantemente aprender novas tecnologias, melhorar minhas habilidades de programação e evol
+Busco constantemente aprender novas tecnologias, melhorar minhas habilidades de programação e evoluir como profissional de tecnologia.
+
+Aprender → Praticar → Construir → Evoluir.
+
+📂 Projetos
+
+🚧 Em constante construção...
+
+Neste perfil, compartilho projetos acadêmicos, projetos pessoais, experimentos e aplicações desenvolvidas durante minha jornada de aprendizado.
+
+<div align="center">
+
+💙 Obrigado por visitar meu perfil!
+
+Sempre aprendendo. Sempre construindo. Sempre evoluindo.
+
+</div>
